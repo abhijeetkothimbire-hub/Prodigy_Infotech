@@ -1,3 +1,9 @@
+<img width="1827" height="1021" alt="Screenshot 2026-01-05 203446" src="https://github.com/user-attachments/assets/f4c7dc6f-21e0-462b-9b55-342ea828ed16" />
+
+
+
+
+
 # 📊 Task 01 – Exploratory Data Analysis (EDA)
 
 ## 📌 Task Description  
